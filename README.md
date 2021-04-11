@@ -1,4 +1,4 @@
-# 02-VBA
+# vba-challenge
 
 Added 2014Results, 2015Results, 2016Results, and SummaryStocksInfoVBACode to the repository.
 
